@@ -1,5 +1,5 @@
 # WMPFDebugger
-基于 https://github.com/evi0s/WMPFDebugger/ 
+基于 https://github.com/evi0s/WMPFDebugger/ 开发的桌面UI 
 
 
 npm install
