@@ -22,7 +22,7 @@ npm install
 ## 编译TypeScript代码
 
 ```bash
-npm run build
+运行.bat
 ```
 
 ## 运行桌面应用
@@ -35,15 +35,6 @@ npm run build
 npm run ui
 ```
 
-### 使用HTML界面
-
-直接在浏览器中打开`UI/index.html`文件。
-
-**注意**：HTML界面只是一个演示，无法真正启动后端服务。要启动后端服务，请在项目根目录下运行：
-
-```bash
-npm start
-```
 
 ## 目录结构
 
